@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb724b3503a21e4795cf6356f0d7bd9, type: 3}
+  m_Name: DouglasFir
+  m_EditorClassIdentifier: 
+  resourceName: douglas_fir
+  resourceIndex: 5
+  lowPolyModel: {fileID: 919132149155446097, guid: 4bdf2e648caa36f438a338f7d04017cd, type: 3}
+  fullResModel: {fileID: 2731615829641476074, guid: e1a1352caddf770428e96a94f9ace4c3, type: 3}

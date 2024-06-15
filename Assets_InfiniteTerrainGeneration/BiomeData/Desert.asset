@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708444b1b74790243bb709e2f8574b17, type: 3}
+  m_Name: Desert
+  m_EditorClassIdentifier: 
+  biomeName: desert
+  biomeGroundColor: {r: 0.8, g: 0.6, b: 0, a: 1}
+  minHumidity: 0
+  maxHumidity: 0
+  minTemperature: 0
+  maxTemperature: 0
+  minElevation: 0
+  maxElevation: 0
+  minErosion: 0
+  maxErosion: 0
+  resourceSpawnInfoInBiome:
+  - resourceData: {fileID: 11400000, guid: bfa1312b510e029478b6ff11cbbe3eb6, type: 2}
+    chanceMinThreshold: 0.9
+  - resourceData: {fileID: 11400000, guid: 84cd0407b3516ac4d84279b6c47889bd, type: 2}
+    chanceMinThreshold: 0.9333333

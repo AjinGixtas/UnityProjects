@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708444b1b74790243bb709e2f8574b17, type: 3}
+  m_Name: Meadow
+  m_EditorClassIdentifier: 
+  biomeName: meadow
+  biomeGroundColor: {r: 0.5019608, g: 1, b: 0, a: 1}
+  minHumidity: 0
+  maxHumidity: 0
+  minTemperature: 0
+  maxTemperature: 0
+  minElevation: 0
+  maxElevation: 0
+  minErosion: 0
+  maxErosion: 0
+  resourceSpawnInfoInBiome:
+  - resourceData: {fileID: 11400000, guid: 3d6c12461e989114bb82c8559b854bbd, type: 2}
+    chanceMinThreshold: 0.6
+  - resourceData: {fileID: 11400000, guid: 666ebdd3e6be36c41a4b51fd6e7284cb, type: 2}
+    chanceMinThreshold: 0.8
